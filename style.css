@@ -1,0 +1,6 @@
+@import url('css/bootstrap.css');
+.test{
+    border: 1px solid red;
+    color: rebeccapurple;
+    text-align: center;
+}
