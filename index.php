@@ -68,7 +68,7 @@
                          <p class="card-text">Text</p>
                      </div>
                  </div>
-             </div>155052524831
+             </div>
              <br><br>
              <div class="col-lg-3 col-sm-6 ">
                  <div style="text-align: center;box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.25);" class="card">
@@ -102,7 +102,7 @@
          </div>
      </div>
      <!--   jerhfoguhewriqubfjkqwerjk-->
-<div class="test"></div>
+<div class="test">  bonjour word   </div>
 
      <?php get_footer(); ?>
  </body>
