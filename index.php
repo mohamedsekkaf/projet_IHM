@@ -1,4 +1,5 @@
  <?php get_header(); ?>
+
  <div id="carouselId" class="carousel slide" data-ride="carousel">
      <ol class="carousel-indicators">
          <li data-target="#carouselId" data-slide-to="0" class="active"></li>
@@ -60,86 +61,47 @@
      <div class="row">
          <div class="col-lg-3 col-sm-6">
              <div style="text-align: center;box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.25);" class="card">
-                 <img class="card-img-top" src="holder.js/100x180/" alt="">
+                 <img class="card-img-top img-act" style="height: 17vh;" src="<?php echo get_template_directory_uri()?>/image/imag4.jpg" alt="">
                  <div class="card-body">
                      <h4 class="card-title">Avis Aux Etudiant</h4>
-                     <p class="card-text">Text</p>
-                 </div>
-             </div>
-         </div>15155052524831
-         <br><br>
-         <div class="col-lg-3 col-sm-6 ">
-             <div style="text-align: center;box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.25);" class="card">
-                 <img class="card-img-top" src="holder.js/100x180/" alt="">
-                 <div class="card-body">
-                     <h4 class="card-title">Avis Aux Etudiant</h4>
-                     <p class="card-text">Text</p>
+                     <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, quam quia minus vel laborum corporis illum at impedit temporibus repellendus cumque reiciendis tempora expedita tenetur suscipit provident eligendi ad architecto!</p>
                  </div>
              </div>
          </div>
          <br><br>
          <div class="col-lg-3 col-sm-6 ">
              <div style="text-align: center;box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.25);" class="card">
-                 <img class="card-img-top" src="holder.js/100x180/" alt="">
+                 <img class="card-img-top " style="height: 17vh;" src="<?php echo get_template_directory_uri()?>/image/imag4.jpg" alt="">
                  <div class="card-body">
                      <h4 class="card-title">Avis Aux Etudiant</h4>
-                     <p class="card-text">Text</p>
+                     <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga repellat blanditiis mollitia magnam maxime, vero quis asperiores illum hic, tempora reiciendis sapiente earum perspiciatis doloremque laudantium sed aspernatur libero ipsum.</p>
+                 </div>
+             </div>
+         </div>
+         <br><br>
+         <div class="col-lg-3 col-sm-6 ">
+             <div style="text-align: center;box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.25);" class="card">
+                 <img class="card-img-top" style="height: 17vh;" src="<?php echo get_template_directory_uri()?>/image/imag4.jpg" alt="">
+                 <div class="card-body">
+                     <h4 class="card-title">Avis Aux Etudiant</h4>
+                     <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi vitae totam numquam aliquid veniam accusamus. Nesciunt, cumque suscipit, vel sequi eos ipsa iste repudiandae, tempora eius dicta debitis praesentium facere!</p>
                  </div>
              </div>
          </div>
          <br><br>
          <div class="col-lg-3 col-sm-6">
              <div style="text-align: center;box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.25);" class="card">
-                 <img class="card-img-top" src="holder.js/100x180/" alt="">
+                 <img class="card-img-top" style="height: 17vh;" src="<?php echo get_template_directory_uri()?>/image/imag4.jpg" alt="">
                  <div class="card-body">
                      <h4 class="card-title">Avis Aux Etudiant</h4>
-                     <p class="card-text">Text</p>
+                     <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, saepe nisi neque cupiditate fugit, soluta quaerat quis eum rem id corporis iusto est perferendis temporibus quia, accusamus numquam incidunt consequuntur!</p>
                  </div>
              </div>
          </div>
      </div>
  </div>
  <!--   jerhfoguhewriqubfjkqwerjk-->
- <div class="test"></div>
- <div class="container">
- <table>
-         <tr>
-             <td><img style="width:100px; height:100px;display:inline-block;"
-                     src="<?php echo get_template_directory_uri()?>/image/img2.jpeg" alt="Second slide"></td>
-             <td>
-                 <h1>title title</h1>
-                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae debitis eos nobis possimus officiis
-                 quos quo adipisci porro iusto voluptatum? Odio ducimus nulla quidem perferendis porro doloribus,
-                 provident voluptate voluptates.
-             </td>
-         </tr>
-         </table>
-         <br><br>
-         <table>
-         <tr>
-             <td><img style="width:100px; height:100px;display:inline-block;"
-                     src="<?php echo get_template_directory_uri()?>/image/img2.jpeg" alt="Second slide"></td>
-             <td>
-                 <h1>title title</h1>
-                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae debitis eos nobis possimus officiis
-                 quos quo adipisci porro iusto voluptatum? Odio ducimus nulla quidem perferendis porro doloribus,
-                 provident voluptate voluptates.
-             </td>
-         </tr>
-         </table>
-         <br><br>
-         <table>
-         <tr>
-             <td><img style="width:100px; height:100px;display:inline-block;"
-                     src="<?php echo get_template_directory_uri()?>/image/img2.jpeg" alt="Second slide"></td>
-             <td>
-                 <h1>title title</h1>
-                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae debitis eos nobis possimus officiis
-                 quos quo adipisci porro iusto voluptatum? Odio ducimus nulla quidem perferendis porro doloribus,
-                 provident voluptate voluptates.
-             </td>
-         </tr>
- </table>
+
 
  <?php get_footer(); ?>
  </body>
