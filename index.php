@@ -27,7 +27,7 @@
              <img style="width:100%; height:70vh" src="<?php echo get_template_directory_uri()?>/image/img3.jpg"
                  alt="Third slide">
              <div class="carousel-caption d-none d-md-block">
-                 <h3>DUT GA</h3>
+                 <h3>DUT Génie Agricole</h3>
                  <p>Description</p>
              </div>
          </div>

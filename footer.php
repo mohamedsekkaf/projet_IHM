@@ -1,15 +1,33 @@
 
 
  <footer id="footer">
-         <!-- mawa9i3 tawasol ijtima3i!!!!!!!! -->
+         
          <div class="container">
+         <div class="row">
+            	
+              <div class="col-md-5">
+                        <p class="small-text pull-left"><font color='#8ab5d6'>&copy;  Ecole Supérieure de Technologie Sidi Bennour</font> </p>
+                        
+                    </div> <!-- /.col-md-5 -->
+                    <div class="col-md-7">
+              
+                        <ul class="footer-nav">
+                            <li><a href="actualite.php"><b>Actualité</b></a></li>
+                              <li><a href="contact.php"><b>Contact</b></a></li>
+                        </ul>
+                                 
+            </div> <!-- /.row -->
      <div class="col-12 center">
      <span></span>
      </div>
+     <!-- mawa9i3 tawasol ijtima3i!!!!!!!! -->
             <div class="head d-flex justify-content-center">
                 <div class="row" style="display: block!important;">
                     <a href="https://facebook.com"><img class="circle" src="<?php echo get_template_directory_uri()?>/image/facebook.png" width="40" height="40"  /></a>
                     <a href=""> <img class="circle" src=""  /></a>
+                    <a href=""> <img class="circle" src="" /></a>
+                    <a href="https://www.instagram.com"><img class="circle" src="<?php echo get_template_directory_uri()?>/image/instagram.png" width="40" height="40"  /></a>
+                    <a href="estsb.ucd@gmail.com"> <img class="circle" src=""  /></a>
                     <a href=""> <img class="circle" src="" /></a>
                 </div>
             </div>
@@ -22,6 +40,7 @@
             <div class="credits">
                 
                 Designed by <a href="#">MOHAMMED SEKKAF</a>
+                            
             </div>
         </div>
     </footer><!-- End #footer -->
